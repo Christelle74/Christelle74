@@ -1,11 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christelle74&label=Profile%20views&color=23cee6&style=flat" alt="christelle74" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christelle74&label=Profile%20views&color=23cee6&style=flat" alt="christelle74" /></p>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<p style="margin-top: 25px;" align="center">
-    <h1 align="center">Hi 👋, I'm Christelle</h1>
+<p style="margin-top: 25px;" align="left">
+    <h1 align="left">Hi 👋, I'm Christelle <img align="right" height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
     <h3 style="margin-bottom: 25px;" align="center">A passionate frontend developer from France</h3>
 </p>  
 
@@ -15,17 +13,24 @@
 -------  
 
 
-<p align="center">
+<p>
   <h2 align="center">Connect with me:</h2>
   <a href="https://linkedin.com/in/christelle-philippe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christelle-philippe" height="30" width="40" /></a>  
 
+<img align="right" width="180" height="180" src="https://media.giphy.com/media/qfiP3gjBmTvPFTT1Fx/giphy.gif">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+<p align="left">  
+    
+    
 - 📫 How to reach me **c.philippe04@hotmail.com**
 
-- ⚡ Fun fact **I'm a kizomba dancer !**
+- ⚡ Fun fact **I'm a kizomba dancer !**  
+
+    
+</p>
 
 
 </p>  
@@ -129,5 +134,5 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
 
 <p align="center">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+    <img align="center" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
 </p>  
